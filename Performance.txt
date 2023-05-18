@@ -1,0 +1,122 @@
+****2022 Performance Sheet****
+
+
+-At start I was totally unfamiliar with the infotainment, as time went on I was familiar with the infotainment, why infotainment system is required and how actually it works.
+
+-Bluetooth chat app
+
+-Devloped various application in android for practice based on various points like intent, Broadcast-Receiver, View, AIDL etc  
+
+-Worked on Media application which was developed in android studio. Mainly focused on UI part.
+
+-Familiar with the QT creator tool used for designing Cluster, Designed components like PRDN, EV, Speedometer etc. Alining the components according to the resoulution of the screen based on x-axis and y-axis.   
+
+-Worked on Figma tool, Figma Tool is mainly used for designing UI parts, Designed various assests in Figma.
+
+-Worked on AOSP code, building AOSP code and flashing the same on the target. Done with the modification on System UI.
+
+
+
+
+********************Work Done Till date***********************
+
+1 Bluetooth Chat application:
+-implemented bluetooth chat app in android in android studio.
+
+2 Static and Dynamic Libraries in cpp
+
+3 Building AOSP code and flashing the same on target:
+-Downloading the AOSP code, Building AOSP code and generating the .img and flashing the same on target
+-Creating Vendor and System application.
+
+4 Media App (UI Part):
+-Implemented UI Part of Media Application
+
+5 QT Cluster (QML Part):
+-Implemented various components in QML.
+-Alining the various components based on Screen size.
+
+6 Figma Tool:
+-Designed basic components in Figma Tool.
+
+7 System UI Modification, Implementing various components on System UI:
+-Implementing the navigation bar.
+-Customization and adding various components on navigation bar
+
+8 Audio Stack in AOSP.
+-Completed an understading of audio stack in AOSP.
+
+9 SomeIP Setup:
+-SomeIP Setup for communication between client and server
+
+10 Common API: 
+-Study of Commons and Generating Commons APIs
+-Segregating the common APIS based on proxy, stub, adapter.
+
+
+
+
+*******************Trainig****************
+Git
+Gerrit
+Jenkins
+
+
+
+Customer Growth:
+
+Ownership of Task:
+1. Implemented bluetooth chat app in android in android studio.
+2. Worked on System UI, implementing various component on systemUI, Modification with Navigation Bar.
+3. Completed an understading of audio stack in AOSP.
+4. Study of Common APIs and Generating Commons APIs
+5. Segregating the common APIS based on proxy, stub, adapter.
+
+Ability to take new task.
+1. Worked on multiple task, technology like android, QT, system UI etc.
+
+Attitude to learn to new technology.
+1. Worked on someip protocal, done with the someip setup for client server communication.
+
+
+
+
+
+Customer Execution:
+
+On-time delivery and task completion:
+1. Worked on various task, completed most of the task on time. Depending on the task difficulty level sometimes time given for the certain task may get extended.
+
+No /minimum rework.
+1. Depending on the Task difficulty level, Modifications required after completing the task, sometimes need to work on certain task after working on it.
+
+
+
+Process:
+
+Process Adherence
+1. Whatever guidlines, protocal given by the Team Lead was followed accordingly.
+
+
+People:
+Teamwork and collaboration
+1. Worked on many tasks like commonAPI, QT cluster with the team with proper team collaboration.
+2. Various problems where solve with the team with proper time management.
+
+Learning attitude
+1. Various CICD technologies like git gerrit, jenkins etc were studied with handson on it.
+
+Trainings attended
+1. Neuro-Linguistic Programming for Communication Excellence.   
+
+Professional development
+1. Collaborating with mates, discussing with the team mates on various new technologies. 
+
+	
+  
+
+
+   
+
+
+
